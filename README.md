@@ -199,6 +199,11 @@ The frontend components, upon receiving data from the backend, dynamically updat
     Account Dashboard: Shows updated balance after deposits or withdrawals.
     Transaction History: Displays a log of transactions, reflecting deposits, withdrawals, and transfers.
 
+**Contributors**
+Ashish Asnani
+Maanvitha Allampalli
+Ritika Kar
+
 
 
 
