@@ -200,9 +200,14 @@ Scrum is one of the most popular frameworks within the Agile methodology, design
   **Github Link:**  
   [**https://github.com/Ritikakar/caching\_project**](https://github.com/Ritikakar/caching_project)  
   [**https://github.com/Ritikakar/java\_concepts**](https://github.com/Ritikakar/java_concepts)  
-  [**https://github.com/Ritikakar/PracticeConcepts**](https://github.com/Ritikakar/PracticeConcepts)\n
-  [**https://github.com/Ritikakar/shopping**](https://github.com/Ritikakar/shopping)\n
-  [**https://github.com/Ritikakar/restaurant**](https://github.com/Ritikakar/restaurant)\n
+  [**https://github.com/Ritikakar/PracticeConcepts**](https://github.com/Ritikakar/PracticeConcepts)
+  
+  [**https://github.com/Ritikakar/shopping**](https://github.com/Ritikakar/shopping)
+  
+  [**https://github.com/Ritikakar/restaurant**](https://github.com/Ritikakar/restaurant)
+  
+  (https://github.com/Ritikakar/weather)
+  
   
 
 
